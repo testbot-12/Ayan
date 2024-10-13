@@ -5,26 +5,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-13T05:47:23.444Z",
-        "lastAccessed": "2024-10-13T05:47:23.444Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "100620499%3BT%3A28813304",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-13T05:47:23.444Z",
-        "lastAccessed": "2024-10-13T05:47:23.444Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2645%3Btimestamp%3A1728798236",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-13T05:47:23.444Z",
-        "lastAccessed": "2024-10-13T05:47:23.444Z"
+        "creation": "2024-10-13T05:57:31.276Z",
+        "lastAccessed": "2024-10-13T05:57:31.276Z"
     },
     {
         "key": "vpd",
@@ -32,7 +14,34 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-13T05:47:23.444Z",
-        "lastAccessed": "2024-10-13T05:47:23.444Z"
+        "creation": "2024-10-13T05:57:31.276Z",
+        "lastAccessed": "2024-10-13T05:57:31.276Z"
+    },
+    {
+        "key": "fr",
+        "value": "0dOe5RhrVCsQuCL2O.AWUurU7iOGXLHuSRXSEKycaVz2M.BnBkPn..AAA.0.0.BnC2FC.AWUHfbCKw6Y",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:57:31.276Z",
+        "lastAccessed": "2024-10-13T05:57:31.276Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100634009%3BT%3A28813317",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:57:31.276Z",
+        "lastAccessed": "2024-10-13T05:57:31.276Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2645%3Btimestamp%3A1728799045",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:57:31.276Z",
+        "lastAccessed": "2024-10-13T05:57:31.276Z"
     }
 ]
