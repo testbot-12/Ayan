@@ -1,3 +1,38 @@
-তোমার paecbook appsate বসাও
-
-i AM A4YA9
+[
+    {
+        "key": "datr",
+        "value": "50MGZ-5qG4mPEJ0GrrG1LX6O",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:47:23.444Z",
+        "lastAccessed": "2024-10-13T05:47:23.444Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100620499%3BT%3A28813304",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:47:23.444Z",
+        "lastAccessed": "2024-10-13T05:47:23.444Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2645%3Btimestamp%3A1728798236",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:47:23.444Z",
+        "lastAccessed": "2024-10-13T05:47:23.444Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B648x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-13T05:47:23.444Z",
+        "lastAccessed": "2024-10-13T05:47:23.444Z"
+    }
+]
